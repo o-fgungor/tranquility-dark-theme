@@ -1,8 +1,23 @@
 {
   "name": "tranquillity-code",
-  "displayName": "tranquillity",
+  "displayName": "Tranquillity Theme",
   "description": "Peace meets the eye",
   "version": "0.0.1",
+  "publisher": "OmerFarukGungor",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/o-fgungor/tranquility-dark-theme"
+  },
+  "keywords": [
+      "theme",
+      "dark theme",
+      "darktheme",
+      "Omer Faruk Gungor",
+      "omer",
+      "faruk",
+      "gungor",
+      "tranquillity"
+  ],
   "engines": {
     "vscode": "^1.91.0"
   },
@@ -14,7 +29,7 @@
       {
         "label": "Tranquillity",
         "uiTheme": "vs-dark",
-        "path": "./themes/Tranquillity-color-theme.json"
+        "path": "./themes/tranquillity-color-theme.json"
       }
     ]
   }

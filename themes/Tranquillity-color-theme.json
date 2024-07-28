@@ -1,24 +1,6 @@
 {
   "type": "dark",
   "name": "Tranquillity-theme",
-  "displayName": "Tranquillity Theme",
-  "description": "Peace meets the eye",
-  "version": "0.0.1",
-  "publisher": "OmerFarukGungor",
-  "repository": {
-      "type": "git",
-      "url": ""
-  },
-  "keywords": [
-      "theme",
-      "dark theme",
-      "darktheme",
-      "Omer Faruk Gungor",
-      "omer",
-      "faruk",
-      "gungor",
-      "tranquillity",
-  ],
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
