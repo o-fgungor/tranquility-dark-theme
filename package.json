@@ -2,8 +2,9 @@
   "name": "tranquillity-code",
   "displayName": "Tranquillity Theme",
   "description": "Peace meets the eye",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "OmerFarukGungor",
+  "icon": "icon.png",
   "repository": {
       "type": "git",
       "url": "https://github.com/o-fgungor/tranquility-dark-theme"
